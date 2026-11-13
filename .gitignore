@@ -1,0 +1,15 @@
+node_modules/
+.next/
+dist/
+.turbo/
+.vercel/
+coverage/
+*.log
+.env
+.env.*
+!.env.example
+.DS_Store
+*.pem
+*.key
+supabase/.temp/
+.claude/settings.local.json
